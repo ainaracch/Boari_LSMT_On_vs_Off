@@ -2,7 +2,7 @@
 
 
 1. If the csv called Linear_Kinematics.csv is already not in here, run 'Get_Boari_Data.ipynb' to get it.
-2. Run 'HAR_lstm.ipynb' inside the Models folder, in the Model1 subfolder, to run the LSTM
+2. Run 'HAR_lstm.ipynb' inside the Models folder, in the Model1 subfolder, to run the LSTM. This will use the previous csv as data.
 
 ###
 - 'Get_Boari_Data.ipynb' -> Read Boari Dataset and turn linear kinematics and angular kinematics into independent csv files (initial script from Sara)
